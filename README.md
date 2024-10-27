@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Richard M
-- 👀 I’m interested in learning anything Bout data analytics 
+- 👀 I’m interested in learning anything about data analytics 
 - 🌱 I’m currently learning more SQL, Python, and advanced Excel
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
